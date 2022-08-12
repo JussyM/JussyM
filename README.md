@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JussyM I'm a junior developer for now and I can code in [Java,C/C++,asm,(html css php sql javascript)] 
+- 👋 Hi, I’m @JussyM I'm a junior developer for now and I can code in [Java,C/C++,C#,python] 
   and also have a basic knowledge about network more basically about protocol cisco router configuration and server 
   installation and configuration.
 - 🌱 I’m still schooling and learning more languages and more stuff about computer 
